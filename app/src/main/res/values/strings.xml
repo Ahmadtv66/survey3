@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">survey3</string>
+    <string name="edit_message">write your opinion</string>
+    <string name="button_send">send</string>
+</resources>
